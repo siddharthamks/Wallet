@@ -1,4 +1,4 @@
-Visit <a href ="https://github.com/siddharthamks/Wallet/releases">Releases</a> page for more
+# Visit <a href ="https://github.com/siddharthamks/Wallet/releases">Releases</a> page for more
 
 # Beta 0.2
 * Improvement in /rob command [unstable sometimes with playerid (s)]
